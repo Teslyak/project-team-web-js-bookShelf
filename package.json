@@ -5,7 +5,7 @@
   "homepage": "https://goitacademy.github.io/project-team-web-js-bookShelf",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/*.html --public-url /project-web-team/"
+    "build": "parcel build src/*.html --public-url /project-team-web-js-bookShelf/"
   },
   "repository": {
     "type": "git",

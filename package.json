@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/project-web-team",
+  "homepage": "https://goitacademy.github.io/project-team-web-js-bookShelf",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/*.html --public-url /project-web-team/"

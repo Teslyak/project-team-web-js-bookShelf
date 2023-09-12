@@ -431,4 +431,6 @@ function onSignUp(event) {
   backdropPop.classList.add('pop-up-is-hidden');
   modalSignUp.classList.remove('is-hidden');
   btnSignUp.removeEventListener('click', onSignUp);
+
 }
+
